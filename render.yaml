@@ -4,4 +4,4 @@ services:
     env: java
     root: fake-news-java
     buildCommand: mvn clean package
-    startCommand: java -jar target/fake-news-java-0.0.1-SNAPSHOT.jar
+    startCommand: java -jar target/<exact-jar-name>.jar
