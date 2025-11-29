@@ -1,0 +1,177 @@
+Stream,CourseDuration,Year,Subjects,Projects
+CSE,4 Years,Year 1,"Programming Basics, Mathematics, Digital Logic","Calculator App, Simple Website"
+CSE,4 Years,Year 2,"Data Structures, DBMS, Operating Systems","Library Management System, Chat Application"
+CSE,4 Years,Year 3,"Computer Networks, AI Basics, Software Engineering","Network Simulator, AI Chatbot"
+CSE,4 Years,Year 4,"Machine Learning, Cloud Computing, Cyber Security","ML Model, Cloud-based File Storage"
+
+ECE,4 Years,Year 1,"Electronics Basics, Mathematics, Physics","Circuit Design, LED Blinker"
+ECE,4 Years,Year 2,"Analog Electronics, Signals & Systems, Digital Communication","FM Transmitter, Signal Analyzer"
+ECE,4 Years,Year 3,"Microprocessors, VLSI Design, Control Systems","Microcontroller-based Robot, Smart Traffic Light"
+ECE,4 Years,Year 4,"Wireless Communication, Embedded Systems, IoT","IoT Home Automation, Drone Communication System"
+
+EEE,4 Years,Year 1,"Electrical Basics, Mathematics, Physics","Transformer Model, Simple Motor"
+EEE,4 Years,Year 2,"Power Systems, Control Systems, Digital Electronics","Smart Grid Model, Motor Controller"
+EEE,4 Years,Year 3,"Renewable Energy, Microprocessors, Power Electronics","Solar Inverter, Wind Turbine Controller"
+EEE,4 Years,Year 4,"Smart Grids, Electric Vehicles, Robotics","EV Charging Station, Robotic Arm"
+
+ME,4 Years,Year 1,"Engineering Mechanics, Mathematics, Physics","Bridge Model, Gear Assembly"
+ME,4 Years,Year 2,"Thermodynamics, Fluid Mechanics, Manufacturing","IC Engine Model, Hydraulic Lift"
+ME,4 Years,Year 3,"Heat Transfer, CAD/CAM, Machine Design","Heat Exchanger, CNC Machining"
+ME,4 Years,Year 4,"Robotics, Automobile Engineering, Industrial Engineering","Autonomous Vehicle, Smart Factory Layout"
+
+CE,4 Years,Year 1,"Civil Engineering Basics, Mathematics, Physics","House Layout, Soil Testing"
+CE,4 Years,Year 2,"Structural Engineering, Surveying, Hydraulics","Bridge Design, Irrigation Model"
+CE,4 Years,Year 3,"Transportation Engineering, Geotechnical Engineering, Environmental Engineering","Highway Design, Waste Management System"
+CE,4 Years,Year 4,"Construction Management, Smart Cities, Earthquake Engineering","Smart Building, Disaster Management Plan"
+
+IT,4 Years,Year 1,"Programming Basics, Mathematics, Digital Logic","Portfolio Website, Chatbot"
+IT,4 Years,Year 2,"Web Development, DBMS, Operating Systems","E-commerce Website, Student Portal"
+IT,4 Years,Year 3,"Computer Networks, Cyber Security, Software Engineering","Firewall System, Bug Tracker"
+IT,4 Years,Year 4,"AI, Cloud Computing, Big Data","Recommendation System, Cloud Storage"
+
+AI,4 Years,Year 1,"Programming Basics, Mathematics, Statistics","Simple AI Game, Chatbot"
+AI,4 Years,Year 2,"Machine Learning, Data Mining, Neural Networks","Image Classifier, Sentiment Analyzer"
+AI,4 Years,Year 3,"Deep Learning, NLP, Computer Vision","Face Recognition, Text Summarizer"
+AI,4 Years,Year 4,"Advanced AI, Robotics, Ethics in AI","Autonomous Drone, AI Ethics Framework"
+
+DS,4 Years,Year 1,"Programming Basics, Statistics, Mathematics","Data Cleaning Project, Visualization"
+DS,4 Years,Year 2,"Data Mining, DBMS, Machine Learning","Customer Segmentation, Predictive Model"
+DS,4 Years,Year 3,"Big Data, Cloud Computing, AI Basics","Hadoop Project, Cloud Data Pipeline"
+DS,4 Years,Year 4,"Advanced Analytics, Deep Learning, Business Intelligence","Recommendation Engine, BI Dashboard"
+
+Robotics,4 Years,Year 1,"Mechanics, Electronics Basics, Programming","Line Follower Robot, Pick & Place Arm"
+Robotics,4 Years,Year 2,"Control Systems, Sensors, Microcontrollers","Obstacle Avoider Robot, Gesture Control Bot"
+Robotics,4 Years,Year 3,"AI Basics, Embedded Systems, Machine Vision","Vision-based Robot, Autonomous Car"
+Robotics,4 Years,Year 4,"Advanced Robotics, IoT, Human-Robot Interaction","Humanoid Robot, IoT-enabled Robot"
+
+Biotech,4 Years,Year 1,"Biology Basics, Chemistry, Mathematics","DNA Extraction, Enzyme Activity"
+Biotech,4 Years,Year 2,"Genetics, Microbiology, Biochemistry","Bacterial Culture, Protein Analysis"
+Biotech,4 Years,Year 3,"Molecular Biology, Immunology, Bioinformatics","Gene Sequencing, Drug Design"
+Biotech,4 Years,Year 4,"Genetic Engineering, Bioprocess Engineering, Nanobiotech","CRISPR Project, Bio-Nano Sensors"
+
+Chemical,4 Years,Year 1,"Chemistry Basics, Mathematics, Physics","Reaction Experiment, Distillation Setup"
+Chemical,4 Years,Year 2,"Thermodynamics, Fluid Mechanics, Process Engineering","Heat Exchanger, Reactor Design"
+Chemical,4 Years,Year 3,"Polymer Science, Environmental Engineering, Biochemical Engineering","Plastic Recycling, Biofuel Production"
+Chemical,4 Years,Year 4,"Petrochemical Engineering, Nanotechnology, Process Control","Petrochemical Plant Model, Nano Coating"
+
+Aerospace,4 Years,Year 1,"Physics, Mathematics, Mechanics","Glider Model, Rocket Basics"
+Aerospace,4 Years,Year 2,"Aerodynamics, Propulsion, Materials","Wind Tunnel Test, Jet Engine Model"
+Aerospace,4 Years,Year 3,"Flight Mechanics, Avionics, Control Systems","Drone Design, Flight Simulator"
+Aerospace,4 Years,Year 4,"Space Technology, Advanced Propulsion, Satellite Communication","Satellite Model, Space Rover"
+
+Automobile,4 Years,Year 1,"Mechanics, Mathematics, Physics","Car Engine Model, Gearbox"
+Automobile,4 Years,Year 2,"Thermodynamics, Fluid Mechanics, Vehicle Design","Hybrid Engine, Brake System"
+Automobile,4 Years,Year 3,"Automobile Engineering, CAD/CAM, Robotics","Autonomous Car, Smart Parking System"
+Automobile,4 Years,Year 4,"EV Technology, Safety Engineering, Smart Vehicles","Electric Car, Crash Test Simulation"
+
+Petroleum,4 Years,Year 1,"Chemistry Basics, Mathematics, Physics","Oil Extraction Model, Refinery Basics"
+Petroleum,4 Years,Year 2,"Drilling Engineering, Fluid Mechanics, Thermodynamics","Drilling Rig Model, Pipeline Design"
+Petroleum,4 Years,Year 3,"Reservoir Engineering, Petrochemical Engineering, Environmental Engineering","Reservoir Simulation, Pollution Control"
+Petroleum,4 Years,Year 4,"Advanced Petroleum Engineering, Energy Management, Nanotechnology","Enhanced Oil Recovery, Smart Refinery"
+
+Marine,4 Years,Year 1,"Physics, Mathematics, Mechanics","Boat Design, Buoyancy Test"
+Marine,4 Years,Year 2,"Fluid Mechanics, Thermodynamics, Marine Structures","Ship Hull Design, Propeller Model"
+Marine,4 Years,Year 3,"Marine Engineering, Control Systems, Navigation","Autonomous Boat, Navigation System"
+Marine,4 Years,Year 4,"Ocean Engineering, Offshore Structures, Robotics","Underwater Drone, Offshore Rig Model"
+
+Metallurgy,4 Years,Year 1,"Chemistry Basics, Physics, Mathematics","Metal Testing, Alloy Preparation"
+Metallurgy,4 Years,Year 2,"Material Science, Thermodynamics, Mechanical Properties","Heat Treatment, Casting Process"
+Metallurgy,4 Years,Year 3,"Corrosion Engineering, Welding, Composite Materials","Anti-Corrosion Coating, Composite Design"
+Metallurgy,4 Years,Year 4,"Nanomaterials, Advanced Metallurgy, Smart Materials","Nano Alloy, Smart Material Application"
+
+Agricultural,4 Years,Year 1,"Biology Basics, Chemistry, Mathematics","Soil Testing, Irrigation Model"
+Agricultural,4 Years,Year 2,"Crop Science, Environmental Engineering, Genetics","Crop Yield Analysis, Greenhouse Design"
+Agricultural,4 Years,Year 3,"Agricultural Machinery, Biotechnology, Food Processing","Smart Tractor, Food Preservation System"
+Agricultural,4 Years,Year 4,"Precision Farming, IoT, Sustainable Agriculture","IoT Farming System, Smart Irrigation"
+
+Biomedical,4 Years,Year 1,"Biology Basics, Physics, Chemistry","Human Anatomy Model, ECG Basics"
+Biomedical,4 Years,Year 2,"Biochemistry, Physiology, Medical Electronics","Pacemaker Model, Prosthetic Design"
+Biomedical,4 Years,Year 3,"Bioinstrumentation, Imaging Systems, Rehabilitation Engineering","MRI Simulation, Smart Prosthetic"
+Biomedical,4 Years,Year 4,"Advanced Biomedical Engineering, Nanomedicine, AI in Healthcare","Nano Drug Delivery, AI Diagnosis System"
+
+
+Stream,CourseDuration,Year,Subjects,Projects
+Railway Systems,4 Years,Year 1,"Mechanics, Mathematics, Physics","Rail Track Design, Bridge Model"
+Railway Systems,4 Years,Year 2,"Transportation Engineering, Surveying, Hydraulics","Railway Layout, Signal System"
+Railway Systems,4 Years,Year 3,"Structural Engineering, Geotechnical Engineering, Environmental Engineering","Highway Design, Waste Management System"
+Railway Systems,4 Years,Year 4,"Construction Management, Smart Cities, Earthquake Engineering","Smart Railway Station, Disaster Management Plan"
+
+Industrial Automation,4 Years,Year 1,"Electronics Basics, Physics, Mathematics","Sensor Design, Circuit Testing"
+Industrial Automation,4 Years,Year 2,"Control Systems, Robotics, PLC","PLC Project, Robotic Arm"
+Industrial Automation,4 Years,Year 3,"Embedded Systems, AI Basics, Machine Vision","Vision-based Robot, Smart Conveyor"
+Industrial Automation,4 Years,Year 4,"IoT, Cyber Security, Smart Manufacturing","IoT Automation System, Secure Factory"
+
+Textile Technology,4 Years,Year 1,"Textile Basics, Chemistry, Mathematics","Fabric Testing, Dyeing Process"
+Textile Technology,4 Years,Year 2,"Fiber Science, Weaving, Knitting","Loom Design, Yarn Analysis"
+Textile Technology,4 Years,Year 3,"Textile Machinery, Polymer Science, CAD","Smart Fabric, CAD Design"
+Textile Technology,4 Years,Year 4,"Advanced Textile Tech, Nanotextiles, Sustainability","Nano Fabric, Eco-friendly Textile"
+
+Ceramic Engineering,4 Years,Year 1,"Chemistry, Physics, Mathematics","Clay Testing, Kiln Basics"
+Ceramic Engineering,4 Years,Year 2,"Material Science, Thermodynamics, Manufacturing","Ceramic Coating, Furnace Design"
+Ceramic Engineering,4 Years,Year 3,"Composite Materials, Nanomaterials, Quality Control","Nano Ceramic, Smart Coating"
+Ceramic Engineering,4 Years,Year 4,"Advanced Ceramics, Smart Materials, Sustainability","Eco Ceramic, Smart Tile"
+
+Polymer Engineering,4 Years,Year 1,"Chemistry Basics, Physics, Mathematics","Plastic Testing, Polymer Basics"
+Polymer Engineering,4 Years,Year 2,"Polymer Science, Thermodynamics, Manufacturing","Plastic Recycling, Polymer Design"
+Polymer Engineering,4 Years,Year 3,"Composite Materials, Nanomaterials, CAD","Smart Polymer, CAD Design"
+Polymer Engineering,4 Years,Year 4,"Advanced Polymers, Smart Materials, Sustainability","Eco Polymer, Smart Plastic"
+
+Marine Engineering Systems,4 Years,Year 1,"Physics, Mathematics, Mechanics","Boat Design, Buoyancy Test"
+Marine Engineering Systems,4 Years,Year 2,"Fluid Mechanics, Thermodynamics, Marine Structures","Ship Hull Design, Propeller Model"
+Marine Engineering Systems,4 Years,Year 3,"Marine Engineering, Control Systems, Navigation","Autonomous Boat, Navigation System"
+Marine Engineering Systems,4 Years,Year 4,"Ocean Engineering, Offshore Structures, Robotics","Underwater Drone, Offshore Rig Model"
+
+Aerospace Propulsion,4 Years,Year 1,"Physics, Mathematics, Mechanics","Glider Model, Rocket Basics"
+Aerospace Propulsion,4 Years,Year 2,"Aerodynamics, Propulsion, Materials","Wind Tunnel Test, Jet Engine Model"
+Aerospace Propulsion,4 Years,Year 3,"Flight Mechanics, Avionics, Control Systems","Drone Design, Flight Simulator"
+Aerospace Propulsion,4 Years,Year 4,"Space Technology, Advanced Propulsion, Satellite Communication","Satellite Model, Space Rover"
+
+Robotics & Automation,4 Years,Year 1,"Mechanics, Electronics Basics, Programming","Line Follower Robot, Pick & Place Arm"
+Robotics & Automation,4 Years,Year 2,"Control Systems, Sensors, Microcontrollers","Obstacle Avoider Robot, Gesture Control Bot"
+Robotics & Automation,4 Years,Year 3,"AI Basics, Embedded Systems, Machine Vision","Vision-based Robot, Autonomous Car"
+Robotics & Automation,4 Years,Year 4,"Advanced Robotics, IoT, Human-Robot Interaction","Humanoid Robot, IoT-enabled Robot"
+
+Smart Grid Technology,4 Years,Year 1,"Electrical Basics, Physics, Mathematics","Transformer Model, Motor Basics"
+Smart Grid Technology,4 Years,Year 2,"Power Systems, Control Systems, Digital Electronics","Smart Grid Model, Motor Controller"
+Smart Grid Technology,4 Years,Year 3,"Renewable Energy, Microprocessors, Power Electronics","Solar Inverter, Wind Turbine Controller"
+Smart Grid Technology,4 Years,Year 4,"Smart Grids, Electric Vehicles, Robotics","EV Charging Station, Robotic Arm"
+
+Hydrology Engineering,4 Years,Year 1,"Physics, Mathematics, Chemistry","Water Testing, Hydrology Basics"
+Hydrology Engineering,4 Years,Year 2,"Fluid Mechanics, Environmental Engineering, Surveying","Irrigation Model, Water Flow Simulation"
+Hydrology Engineering,4 Years,Year 3,"Hydraulic Structures, GIS, Control Systems","Dam Design, GIS Mapping"
+Hydrology Engineering,4 Years,Year 4,"Advanced Hydrology, Smart Cities, Robotics","Smart Irrigation, Automated Dam System"
+
+Biochemical Engineering,4 Years,Year 1,"Biology, Chemistry, Mathematics","DNA Extraction, Enzyme Activity"
+Biochemical Engineering,4 Years,Year 2,"Genetics, Microbiology, Biochemistry","Bacterial Culture, Protein Analysis"
+Biochemical Engineering,4 Years,Year 3,"Molecular Biology, Immunology, Bioinformatics","Gene Sequencing, Drug Design"
+Biochemical Engineering,4 Years,Year 4,"Genetic Engineering, Bioprocess Engineering, Nanobiotech","CRISPR Project, Bio-Nano Sensors"
+
+Photonics Systems,4 Years,Year 1,"Physics, Mathematics, Electronics","Laser Basics, Optics Experiment"
+Photonics Systems,4 Years,Year 2,"Optical Communication, Fiber Optics, Signals","Fiber Optic Link, Optical Sensor"
+Photonics Systems,4 Years,Year 3,"Laser Engineering, Photonic Devices, Control Systems","Laser Cutter, Photonic Chip"
+Photonics Systems,4 Years,Year 4,"Advanced Photonics, Nanophotonics, Quantum Optics","Quantum Laser, Nano Photonic Device"
+
+Space Robotics,4 Years,Year 1,"Physics, Mathematics, Mechanics","Satellite Basics, Rocket Model"
+Space Robotics,4 Years,Year 2,"Aerodynamics, Propulsion, Materials","Satellite Communication, Jet Engine Model"
+Space Robotics,4 Years,Year 3,"Flight Mechanics, Avionics, Control Systems","Satellite Design, Flight Simulator"
+Space Robotics,4 Years,Year 4,"Space Technology, Advanced Propulsion, Satellite Communication","Satellite Model, Space Rover"
+
+AI Robotics,4 Years,Year 1,"Programming Basics, Mathematics, Digital Logic","Simple AI Game, Chatbot"
+AI Robotics,4 Years,Year 2,"Machine Learning, Data Mining, Neural Networks","Image Classifier, Sentiment Analyzer"
+AI Robotics,4 Years,Year 3,"Deep Learning, NLP, Computer Vision","Face Recognition, Text Summarizer"
+AI Robotics,4 Years,Year 4,"Advanced AI, Robotics, Ethics in AI","Autonomous Drone, AI Ethics Framework"
+
+Smart Vehicles,4 Years,Year 1,"Mechanics, Mathematics, Physics","Car Engine Model, Gearbox"
+Smart Vehicles,4 Years,Year 2,"Thermodynamics, Fluid Mechanics, Vehicle Design","Hybrid Engine, Brake System"
+Smart Vehicles,4 Years,Year 3,"Automobile Engineering, CAD/CAM, Robotics","Autonomous Car, Smart Parking System"
+Smart Vehicles,4 Years,Year 4,"EV Technology, Safety Engineering, Smart Vehicles","Electric Car, Crash Test Simulation"
+
+Drone Engineering,4 Years,Year 1,"Physics, Mathematics, Electronics","Drone Basics, Remote Control"
+Drone Engineering,4 Years,Year 2,"Aerodynamics, Propulsion, Control Systems","Quadcopter Design, Flight Simulation"
+Drone Engineering,4 Years,Year 3,"AI Basics, Embedded Systems, Machine Vision","Autonomous Drone, Vision-based Navigation"
+Drone Engineering,4 Years,Year 4,"Advanced Drone Tech, IoT, Robotics","IoT Drone, Smart Delivery Drone"
+
+Quantum Electronics,4 Years,Year 1,"Mathematics, Physics, Programming","Quantum Basics, Qubit Simulation"
+Quantum Electronics,4 Years,Year 2,"Quantum Mechanics, Algorithms, Cryptography","Quantum Algorithm, Secure Communication"
+Quantum Electronics,4 Years,Year 3,"Quantum Circuits, AI Basics, Cloud Computing","Quantum AI, Cloud Quantum System"
+Quantum Electronics,4 Years,Year 4,"Advanced Quantum Tech, Robotics, Ethics","Quantum Robot, Ethical Framework"

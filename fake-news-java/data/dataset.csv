@@ -1,0 +1,6 @@
+Stream,CourseDuration,Year,Subjects,Projects
+CSE,4 Years,Year 1,"Programming Basics, Mathematics, Digital Logic","Calculator App, Simple Website"
+CSE,4 Years,Year 2,"Data Structures, DBMS, Operating Systems","Library Management System, Chat Application"
+CSE,4 Years,Year 3,"Computer Networks, AI Basics, Software Engineering","Network Simulator, AI Chatbot"
+CSE,4 Years,Year 4,"Machine Learning, Cloud Computing, Cyber Security","ML Model, Cloud-based File Storage"
+ECE,4 Years,Year 1,"Electronics Basics, Mathematics, Physics","Circuit Design, LED Blinker"
