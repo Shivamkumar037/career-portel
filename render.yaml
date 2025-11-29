@@ -1,1 +1,10 @@
+services:
+  - type: web
+    name: pdf-editor
+    env: docker
+    plan: free
+    region: oregon
+    rootDir: backend
+    dockerfilePath: Dockerfile
+
 
