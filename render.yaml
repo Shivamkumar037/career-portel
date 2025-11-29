@@ -1,7 +1,7 @@
 services:
   - type: web
     name: fake-news-java
-    env: java
+    runtime: docker
     plan: free
     rootDir: fake-news-java
     buildCommand: ./mvnw clean install
