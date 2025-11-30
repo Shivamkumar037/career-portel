@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: careerportel1
+    name: career2
     runtime: docker
     plan: free
     region: oregon
