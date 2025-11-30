@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: fake-news-java
+    name: careerportel1
     runtime: docker
     plan: free
+    region: oregon
     rootDir: fake-news-java
     dockerfilePath: Dockerfile
-
