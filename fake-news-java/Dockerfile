@@ -2,11 +2,11 @@
 FROM maven:3.9.6-eclipse-temurin-17 AS build
 WORKDIR /app
 
-# Copy pom.xml and download dependencies first (better caching)
+# Copy pom.xml and download dependencies
 COPY pom.xml .
 RUN mvn dependency:go-offline -B
 
-# Copy the rest of the source code
+# Copy source code
 COPY src ./src
 
 # Build the application
@@ -16,10 +16,10 @@ RUN mvn clean package -DskipTests
 FROM eclipse-temurin:17-jdk-alpine
 WORKDIR /app
 
-# Copy the built jar from the build stage
+# Copy built jar
 COPY --from=build /app/target/*.jar app.jar
 
-# Expose port (default Spring Boot is 8080)
+# Expose port (Spring Boot default is 8080)
 EXPOSE 8080
 
 # Run the application
